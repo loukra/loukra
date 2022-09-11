@@ -8,5 +8,5 @@ In my free time i am trying to find out if it would have been worth moving from 
 Is the Weather in Aachen any better then in Oldenburg?
 <img src="https://user-images.githubusercontent.com/111969813/189545134-e9bb3674-54a9-4b50-bea5-cfe61f75061b.png" > 
 
-Weekend destinations
+My next weekend trip destinations 
 <img src="https://user-images.githubusercontent.com/111969813/189546416-4a3e5290-bc40-4e1f-88ca-01483242bbdb.png" align="center"> 
