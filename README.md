@@ -1,3 +1,4 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=loukra.22&left_color=green&right_color=red)
 # Hi, I’m @loukra
 - 👀 I’m interested in understanding the world through data
 - 🌱 I’m currently learning to extract more meaning from data
